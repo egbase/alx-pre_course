@@ -1,3 +1,3 @@
 text
 My second README
-Second Commit
+Second commit
